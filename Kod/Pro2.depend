@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610107605 source:c:\users\rafa³\desktop\pro2\pro2\main.cpp
+	<iostream>
+	<algorithm>
+	<ctime>
+	<fstream>
+	<chrono>
+	<iomanip>
+
